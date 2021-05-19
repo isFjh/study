@@ -38,4 +38,5 @@ ssh克隆方式: ssh-keygen -t ras -C "邮箱"
 	合并分支：git merge 被合并的分支名
 	
 忽略文件：
-	touch .gitignore
+	新增.gitignore文件：touch .gitignore
+	在.gitignore编写忽略规则
