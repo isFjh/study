@@ -36,3 +36,6 @@ ssh克隆方式: ssh-keygen -t ras -C "邮箱"
 	创建并切换分支：git checkout -b 分支名
 	删除分支：git branch -d 分支名
 	合并分支：git merge 被合并的分支名
+	
+忽略文件：
+	touch .gitignore
